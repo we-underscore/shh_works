@@ -4,6 +4,10 @@ exports[`<App /> matches snapshot 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
+    <script
+      id="dsq-embed-scr"
+      src="https://HMMMM.disqus.com/embed.js"
+    />
     <div>
       <div
         class="keen-slider keen-slider--vertical"
@@ -116,10 +120,9 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <img
-                              alt="performer"
-                              src="image01.jpg"
-                              width="100%"
+                            <div
+                              class="imageSlide-0-2-14"
+                              style="background-image: url(image01.jpg); width: 100%; height: 200px;"
                             />
                             강호정
                           </div>
@@ -131,10 +134,9 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <img
-                              alt="performer"
-                              src="image02.jpg"
-                              width="100%"
+                            <div
+                              class="imageSlide-0-2-14"
+                              style="background-image: url(image02.jpg); width: 100%; height: 200px;"
                             />
                             김주영
                           </div>
@@ -146,10 +148,9 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <img
-                              alt="performer"
-                              src="image03.jpg"
-                              width="100%"
+                            <div
+                              class="imageSlide-0-2-14"
+                              style="background-image: url(image03.jpg); width: 100%; height: 200px;"
                             />
                             도윤승
                           </div>
@@ -161,10 +162,9 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <img
-                              alt="performer"
-                              src="image04.jpg"
-                              width="100%"
+                            <div
+                              class="imageSlide-0-2-14"
+                              style="background-image: url(image04.jpg); width: 100%; height: 200px;"
                             />
                             박유라
                           </div>
@@ -176,10 +176,9 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <img
-                              alt="performer"
-                              src="image05.jpg"
-                              width="100%"
+                            <div
+                              class="imageSlide-0-2-14"
+                              style="background-image: url(image05.jpg); width: 100%; height: 200px;"
                             />
                             신정민
                           </div>
@@ -191,10 +190,9 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <img
-                              alt="performer"
-                              src="image06.jpg"
-                              width="100%"
+                            <div
+                              class="imageSlide-0-2-14"
+                              style="background-image: url(image06.jpg); width: 100%; height: 200px;"
                             />
                             이현우
                           </div>
@@ -206,10 +204,9 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <img
-                              alt="performer"
-                              src="image07.jpg"
-                              width="100%"
+                            <div
+                              class="imageSlide-0-2-14"
+                              style="background-image: url(image07.jpg); width: 100%; height: 200px;"
                             />
                             황다솜
                           </div>
@@ -251,18 +248,18 @@ Object {
           style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
         >
           <div
-            class="root-0-2-14"
+            class="root-0-2-15"
           >
             <div
-              class="titleContainer-0-2-15"
+              class="titleContainer-0-2-16"
             >
               <div
-                class="title-0-2-16"
+                class="title-0-2-17"
               >
                 “잠은 자본주의가 제거할 수 없는, 유일하게 남아 있는 장애물, 유일하게 지속되는 ‘자연조건’이다.”
               </div>
               <div
-                class="subTitle-0-2-17"
+                class="subTitle-0-2-18"
               >
                 - Jonathan Crary, 24/7 : Late Capitalism and the Ends of Sleep
               </div>
@@ -274,23 +271,23 @@ Object {
           style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
         >
           <div
-            class="root-0-2-18"
+            class="root-0-2-19"
           >
             <div
-              class="titleContainer-0-2-19"
+              class="titleContainer-0-2-20"
             >
               <div
-                class="title-0-2-20"
+                class="title-0-2-21"
               />
               <div
-                class="subTitle-0-2-21"
+                class="subTitle-0-2-22"
               />
             </div>
             <div
-              class="credit-0-2-22"
+              class="credit-0-2-23"
             >
               <div
-                class="creditLeft-0-2-23"
+                class="creditLeft-0-2-24"
               >
                 컨셉・안무
                 <br />
@@ -314,7 +311,7 @@ Object {
                  후원
               </div>
               <div
-                class="creditRight-0-2-24"
+                class="creditRight-0-2-25"
               >
                 황수현
                 <br />
@@ -346,13 +343,15 @@ Object {
           style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
         >
           <div
-            class="root-0-2-25"
+            class="root-0-2-26"
           >
             <div
+              config="[object Object]"
               id="disqus_thread"
+              shortname="HMMMM"
             />
             <div
-              class="text-0-2-26"
+              class="text-0-2-27"
             >
               <a
                 href="https://instagram.com/shh_works"
@@ -366,6 +365,10 @@ Object {
         </div>
       </div>
     </div>
+    <script
+      id="dsq-embed-scr"
+      src="https://HMMMM.disqus.com/embed.js"
+    />
   </body>,
   "container": <div>
     <div
@@ -479,10 +482,9 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <img
-                            alt="performer"
-                            src="image01.jpg"
-                            width="100%"
+                          <div
+                            class="imageSlide-0-2-14"
+                            style="background-image: url(image01.jpg); width: 100%; height: 200px;"
                           />
                           강호정
                         </div>
@@ -494,10 +496,9 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <img
-                            alt="performer"
-                            src="image02.jpg"
-                            width="100%"
+                          <div
+                            class="imageSlide-0-2-14"
+                            style="background-image: url(image02.jpg); width: 100%; height: 200px;"
                           />
                           김주영
                         </div>
@@ -509,10 +510,9 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <img
-                            alt="performer"
-                            src="image03.jpg"
-                            width="100%"
+                          <div
+                            class="imageSlide-0-2-14"
+                            style="background-image: url(image03.jpg); width: 100%; height: 200px;"
                           />
                           도윤승
                         </div>
@@ -524,10 +524,9 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <img
-                            alt="performer"
-                            src="image04.jpg"
-                            width="100%"
+                          <div
+                            class="imageSlide-0-2-14"
+                            style="background-image: url(image04.jpg); width: 100%; height: 200px;"
                           />
                           박유라
                         </div>
@@ -539,10 +538,9 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <img
-                            alt="performer"
-                            src="image05.jpg"
-                            width="100%"
+                          <div
+                            class="imageSlide-0-2-14"
+                            style="background-image: url(image05.jpg); width: 100%; height: 200px;"
                           />
                           신정민
                         </div>
@@ -554,10 +552,9 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <img
-                            alt="performer"
-                            src="image06.jpg"
-                            width="100%"
+                          <div
+                            class="imageSlide-0-2-14"
+                            style="background-image: url(image06.jpg); width: 100%; height: 200px;"
                           />
                           이현우
                         </div>
@@ -569,10 +566,9 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <img
-                            alt="performer"
-                            src="image07.jpg"
-                            width="100%"
+                          <div
+                            class="imageSlide-0-2-14"
+                            style="background-image: url(image07.jpg); width: 100%; height: 200px;"
                           />
                           황다솜
                         </div>
@@ -614,18 +610,18 @@ Object {
         style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
       >
         <div
-          class="root-0-2-14"
+          class="root-0-2-15"
         >
           <div
-            class="titleContainer-0-2-15"
+            class="titleContainer-0-2-16"
           >
             <div
-              class="title-0-2-16"
+              class="title-0-2-17"
             >
               “잠은 자본주의가 제거할 수 없는, 유일하게 남아 있는 장애물, 유일하게 지속되는 ‘자연조건’이다.”
             </div>
             <div
-              class="subTitle-0-2-17"
+              class="subTitle-0-2-18"
             >
               - Jonathan Crary, 24/7 : Late Capitalism and the Ends of Sleep
             </div>
@@ -637,23 +633,23 @@ Object {
         style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
       >
         <div
-          class="root-0-2-18"
+          class="root-0-2-19"
         >
           <div
-            class="titleContainer-0-2-19"
+            class="titleContainer-0-2-20"
           >
             <div
-              class="title-0-2-20"
+              class="title-0-2-21"
             />
             <div
-              class="subTitle-0-2-21"
+              class="subTitle-0-2-22"
             />
           </div>
           <div
-            class="credit-0-2-22"
+            class="credit-0-2-23"
           >
             <div
-              class="creditLeft-0-2-23"
+              class="creditLeft-0-2-24"
             >
               컨셉・안무
               <br />
@@ -677,7 +673,7 @@ Object {
                후원
             </div>
             <div
-              class="creditRight-0-2-24"
+              class="creditRight-0-2-25"
             >
               황수현
               <br />
@@ -709,13 +705,15 @@ Object {
         style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
       >
         <div
-          class="root-0-2-25"
+          class="root-0-2-26"
         >
           <div
+            config="[object Object]"
             id="disqus_thread"
+            shortname="HMMMM"
           />
           <div
-            class="text-0-2-26"
+            class="text-0-2-27"
           >
             <a
               href="https://instagram.com/shh_works"
