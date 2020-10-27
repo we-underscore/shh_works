@@ -1,6 +1,6 @@
 import React from "react";
 import { createUseStyles } from "react-jss";
-import { Comment } from "react-disqus-components";
+// import { Comment } from "react-disqus-components";
 import { DiscussionEmbed } from "disqus-react";
 
 export default function Reply() {
