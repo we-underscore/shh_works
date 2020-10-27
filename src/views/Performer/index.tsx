@@ -78,31 +78,31 @@ export default function Performer() {
   };
   const items = [
     <div className={classes.imageContainer}>
-      <img src={image01} width="100%" />
+      <img src={image01} width="100%" alt="performer" />
       강호정
     </div>,
     <div className={classes.imageContainer}>
-      <img src={image02} width="100%" />
+      <img src={image02} width="100%" alt="performer" />
       김주영
     </div>,
     <div className={classes.imageContainer}>
-      <img src={image03} width="100%" />
+      <img src={image03} width="100%" alt="performer" />
       도윤승
     </div>,
     <div className={classes.imageContainer}>
-      <img src={image04} width="100%" />
+      <img src={image04} width="100%" alt="performer" />
       박유라
     </div>,
     <div className={classes.imageContainer}>
-      <img src={image05} width="100%" />
+      <img src={image05} width="100%" alt="performer" />
       신정민
     </div>,
     <div className={classes.imageContainer}>
-      <img src={image06} width="100%" />
+      <img src={image06} width="100%" alt="performer" />
       이현우
     </div>,
     <div className={classes.imageContainer}>
-      <img src={image07} width="100%" />
+      <img src={image07} width="100%" alt="performer" />
       황다솜
     </div>,
   ];

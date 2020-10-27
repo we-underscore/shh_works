@@ -22,7 +22,7 @@ const useStyles = createUseStyles({
     width: "90%",
     height: "auto",
     fontFamily: "Noto Serif KR",
-    fontSize: 16,
+    fontSize: 14,
     fontWeight: "normal",
     fontStyle: "normal",
     lineHeight: 1.6,

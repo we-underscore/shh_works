@@ -14,11 +14,11 @@ export function Typo(props: React.SVGProps<SVGSVGElement>) {
 
 export function Bar(props: React.SVGProps<SVGSVGElement>) {
   const duration = 5000;
-  const svgSpring = useSpring({
-    from: { viewBox: "0 0 0 3" },
-    to: { viewBox: "0 0 359.95 3" },
-    config: { duration },
-  });
+  // const svgSpring = useSpring({
+  //   from: { viewBox: "0 0 0 3" },
+  //   to: { viewBox: "0 0 359.95 3" },
+  //   config: { duration },
+  // });
   const pathSpring = useSpring({
     from: { d: "M0 1.5h0" },
     to: { d: "M0 1.5h359.95" },

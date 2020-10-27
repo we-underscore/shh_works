@@ -35,7 +35,7 @@ const useStyles = createUseStyles({
     letterSpacing: 0,
     textAlign: "left",
     color: "#ffffff",
-    marginBottom: 20,
+    marginBottom: 60,
     marginLeft: 20,
     "& h1": {
       fontSize: 15,

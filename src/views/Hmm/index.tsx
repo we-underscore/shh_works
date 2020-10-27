@@ -15,7 +15,7 @@ const useStyles = createUseStyles({
     alignItems: "center",
     zIndex: 10,
     width: "100%",
-    height: "100%"
+    height: "100%",
   },
   typography: {
     display: "flex",
@@ -44,7 +44,7 @@ const useStyles = createUseStyles({
   },
 });
 
-export default function () {
+export default function Hmm() {
   const classes = useStyles();
   const barSpring = useSpring({
     from: { width: "0px" },

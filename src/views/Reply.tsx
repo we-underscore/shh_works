@@ -17,7 +17,11 @@ export default function Reply() {
     <div className={classes.root}>
       <Comment {...disqusConfig} />
       <div className={classes.text}>
-        <a href="https://instagram.com/shh_works" target="_blank">
+        <a
+          href="https://instagram.com/shh_works"
+          target="_parent"
+          rel="noopener"
+        >
           © 2020 Soo Hyun Hwang, all rights reserved.
         </a>
       </div>
