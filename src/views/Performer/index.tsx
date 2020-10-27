@@ -19,7 +19,7 @@ const useStyles = createUseStyles({
     justifyContent: "space-between",
   },
   top: {
-    height: "50%",
+    height: "40%",
   },
   slider: {
     height: "80%",
@@ -32,11 +32,12 @@ const useStyles = createUseStyles({
     flexDirection: "column",
     justifyContent: "space-between",
     alignItems: "center",
+    fontFamily: "Noto Serif KR",
     color: "#707070",
     fontSize: 14,
   },
   bottom: {
-    height: "50%",
+    height: "60%",
   },
   title: {
     marginLeft: 15,
@@ -67,6 +68,9 @@ const useStyles = createUseStyles({
     textAlign: "left",
     color: "#707070",
   },
+  imageSlide: {
+    backgroundSize: "cover",
+  },
 });
 
 export default function Performer() {
@@ -78,31 +82,81 @@ export default function Performer() {
   };
   const items = [
     <div className={classes.imageContainer}>
-      <img src={image01} width="100%" alt="performer" />
+      {/* <img src={image01} width="100%" alt="performer" /> */}
+      <div
+        className={classes.imageSlide}
+        style={{
+          backgroundImage: `url(${image01})`,
+          width: "100%",
+          height: "200px",
+        }}
+      ></div>
       강호정
     </div>,
     <div className={classes.imageContainer}>
-      <img src={image02} width="100%" alt="performer" />
+      <div
+        className={classes.imageSlide}
+        style={{
+          backgroundImage: `url(${image02})`,
+          width: "100%",
+          height: "200px",
+        }}
+      ></div>
       김주영
     </div>,
     <div className={classes.imageContainer}>
-      <img src={image03} width="100%" alt="performer" />
+      <div
+        className={classes.imageSlide}
+        style={{
+          backgroundImage: `url(${image03})`,
+          width: "100%",
+          height: "200px",
+        }}
+      ></div>
       도윤승
     </div>,
     <div className={classes.imageContainer}>
-      <img src={image04} width="100%" alt="performer" />
+      <div
+        className={classes.imageSlide}
+        style={{
+          backgroundImage: `url(${image04})`,
+          width: "100%",
+          height: "200px",
+        }}
+      ></div>
       박유라
     </div>,
     <div className={classes.imageContainer}>
-      <img src={image05} width="100%" alt="performer" />
+      <div
+        className={classes.imageSlide}
+        style={{
+          backgroundImage: `url(${image05})`,
+          width: "100%",
+          height: "200px",
+        }}
+      ></div>
       신정민
     </div>,
     <div className={classes.imageContainer}>
-      <img src={image06} width="100%" alt="performer" />
+      <div
+        className={classes.imageSlide}
+        style={{
+          backgroundImage: `url(${image06})`,
+          width: "100%",
+          height: "200px",
+        }}
+      ></div>
       이현우
     </div>,
     <div className={classes.imageContainer}>
-      <img src={image07} width="100%" alt="performer" />
+      <div
+        className={classes.imageSlide}
+        style={{
+          backgroundImage: `url(${image07})`,
+          width: "100%",
+          height: "200px",
+        }}
+      ></div>
       황다솜
     </div>,
   ];

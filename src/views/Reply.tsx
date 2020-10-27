@@ -1,19 +1,20 @@
 import React from "react";
 import { createUseStyles } from "react-jss";
 import { Comment } from "react-disqus-components";
+import { DiscussionEmbed } from "disqus-react";
 
 export default function Reply() {
   const classes = useStyles();
   // React.useEffect(() => window.FB.XFBML.parse());
-  const disqusConfig = {
+  const config = {
     title: "HMMMM",
     identifier: "HMMMM",
     url: "https://hmmmm-2.disqus.com/",
-    shortname: "HMMMM",
   };
   return (
     <div className={classes.root}>
-      <Comment {...disqusConfig} />
+      {/* <Comment {...disqusConfig} /> */}
+      <DiscussionEmbed shortname="HMMMM" config={config} />
       <div className={classes.text}>
         <a
           href="https://instagram.com/shh_works"
@@ -37,9 +38,18 @@ export default function Reply() {
 const useStyles = createUseStyles({
   root: {
     textAlign: "center",
+    height: "100vh",
     paddingTop: 0,
     paddingLeft: 20,
     paddingRight: 20,
+    overflowY: "hidden",
+    "& div": {
+      height: "100vh",
+      overflowY: "hidden",
+      "& iframe": {
+        overflowY: "hidden !important",
+      },
+    },
   },
   text: {
     fontFamily: "Noto Serif KR",
