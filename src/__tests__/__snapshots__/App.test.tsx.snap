@@ -1,0 +1,784 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> matches snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="keen-slider keen-slider--vertical"
+        data-keen-slider-v="true"
+        style="height: 100vh;"
+      >
+        <div
+          class="keen-slider__slide"
+          style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
+        >
+          <div
+            class="root-0-2-1"
+          >
+            <video
+              controls=""
+              height="auto"
+              playsinline=""
+              poster="cover.png"
+              width="100%"
+            >
+              <source
+                src="https://shh-works-contents.s3.ap-northeast-2.amazonaws.com/Hmmmm_mobile.m4v"
+                type="video/mp4"
+              />
+            </video>
+          </div>
+          <div
+            class="text-0-2-3"
+          >
+            <p>
+              황수현의 신작 ❮ 음—— ❯은 정관헌(靜觀軒)이라는 공간이 함의하고 있는 ‘조용히 내다본다’는 행위를 조명한다. 바라본다는 시각적 감각과 저 너머를 내다본다는 예기적 감각 사이에서 안무가는 ‘본다’는 감각 행위의 의미를 반추한다.
+            </p>
+            <p>
+              ❮ 음—— ❯은 관객이 바깥 풍경을 내다보면서 해석의 과정을 지연하는 멈춤 상태에 머무를 수 있도록 안내한다. 함께 모여 무언가를 관람하고 의미를 찾는 과정이 잠시 정지된 이 상태는 막연하고 모호한 공백을 만들어낸다. 그 진공 속에서 관객은 불현듯 의미화 너머의 세계를 감지하기 시작한다.
+            </p>
+            <p>
+              오늘날 스크린이 아니라 ‘몸’으로 공연을 감각하는 행위는 감각적 진보와 도태 사이, 시각적 구체와 추상 사이, 과거의 향수와 미래의 가능성 사이를 부유한다. 그러나 이 유예의 상태는 곧 ‘내다보기’의 영역으로 내디딜 수 있는 단서가 된다.
+            </p>
+          </div>
+        </div>
+        <div
+          class="keen-slider__slide"
+          style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
+        >
+          <div
+            class="container-0-2-4"
+          >
+            <div
+              class="title-0-2-5"
+            >
+              PERFORMANCE VENUE
+            </div>
+            <div
+              class="content-0-2-6"
+            >
+              <h3>
+                정관헌(靜觀軒)의 장소성
+              </h3>
+              <ul>
+                <li>
+                  — 명칭: 이름에 함의된 ‘조용히(靜) 내다봄(觀)’의 행위
+                </li>
+                <li>
+                  — 용도: 고종의 휴게실로 사용되었던 공간에서 갖는 쉼의 시간
+                </li>
+                <li>
+                  — 구조: 삼면이 트인 열린 구조로 내부와 외부의 순환
+                </li>
+                <li>
+                  — 역사: 공간이 품고있는 과거의 시간과 현재의 만남
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div
+          class="keen-slider__slide"
+          style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
+        >
+          <div
+            class="root-0-2-7"
+          >
+            <div
+              class="top-0-2-8"
+            >
+              <div
+                class="title-0-2-12"
+              >
+                PERFORMER
+              </div>
+              <div
+                class="slider-0-2-9"
+              >
+                <div
+                  class="alice-carousel"
+                >
+                  <div>
+                    <div
+                      class="alice-carousel__wrapper"
+                      style="padding-left: 50px; padding-right: 50px;"
+                    >
+                      <ul
+                        class="alice-carousel__stage"
+                        style="transition: transform 0ms ease 0ms; transform: translate3d(0px, 0, 0);"
+                      >
+                        <li
+                          class="alice-carousel__stage-item __active"
+                          style="width: 0px;"
+                        >
+                          <div
+                            class="imageContainer-0-2-10"
+                          >
+                            <img
+                              alt="performer"
+                              src="image01.jpg"
+                              width="100%"
+                            />
+                            강호정
+                          </div>
+                        </li>
+                        <li
+                          class="alice-carousel__stage-item __active"
+                          style="width: 0px;"
+                        >
+                          <div
+                            class="imageContainer-0-2-10"
+                          >
+                            <img
+                              alt="performer"
+                              src="image02.jpg"
+                              width="100%"
+                            />
+                            김주영
+                          </div>
+                        </li>
+                        <li
+                          class="alice-carousel__stage-item"
+                          style="width: 0px;"
+                        >
+                          <div
+                            class="imageContainer-0-2-10"
+                          >
+                            <img
+                              alt="performer"
+                              src="image03.jpg"
+                              width="100%"
+                            />
+                            도윤승
+                          </div>
+                        </li>
+                        <li
+                          class="alice-carousel__stage-item"
+                          style="width: 0px;"
+                        >
+                          <div
+                            class="imageContainer-0-2-10"
+                          >
+                            <img
+                              alt="performer"
+                              src="image04.jpg"
+                              width="100%"
+                            />
+                            박유라
+                          </div>
+                        </li>
+                        <li
+                          class="alice-carousel__stage-item"
+                          style="width: 0px;"
+                        >
+                          <div
+                            class="imageContainer-0-2-10"
+                          >
+                            <img
+                              alt="performer"
+                              src="image05.jpg"
+                              width="100%"
+                            />
+                            신정민
+                          </div>
+                        </li>
+                        <li
+                          class="alice-carousel__stage-item"
+                          style="width: 0px;"
+                        >
+                          <div
+                            class="imageContainer-0-2-10"
+                          >
+                            <img
+                              alt="performer"
+                              src="image06.jpg"
+                              width="100%"
+                            />
+                            이현우
+                          </div>
+                        </li>
+                        <li
+                          class="alice-carousel__stage-item"
+                          style="width: 0px;"
+                        >
+                          <div
+                            class="imageContainer-0-2-10"
+                          >
+                            <img
+                              alt="performer"
+                              src="image07.jpg"
+                              width="100%"
+                            />
+                            황다솜
+                          </div>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="bottom-0-2-11"
+            >
+              <div
+                class="title-0-2-12"
+              >
+                HMMMMM
+              </div>
+              <div
+                class="content-0-2-13"
+              >
+                <p>
+                  고고학자 스티븐 미슨은 의사소통의 기원에 관한 자신의 연구에서 음악과 언어가 공통의 뿌리를 갖는다고 주장하며 다음과 같이 말했다.
+                </p>
+                <p>
+                  “원시언어는 엄밀하게 언어적이거나 음악적인 것이 아니라 두 가지 성격이 뒤섞인 ‘HMMMMM’ (Holistic, Multi-modal, Manipulative, Music, Mimetic) 체계로 구성되어 있다.”
+                </p>
+                <div
+                  style="font-size: 12px; font-style: italic;"
+                >
+                  - Steven Mithen, The singing Neanderthals
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="keen-slider__slide"
+          style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
+        >
+          <div
+            class="root-0-2-14"
+          >
+            <div
+              class="titleContainer-0-2-15"
+            >
+              <div
+                class="title-0-2-16"
+              >
+                “잠은 자본주의가 제거할 수 없는, 유일하게 남아 있는 장애물, 유일하게 지속되는 ‘자연조건’이다.”
+              </div>
+              <div
+                class="subTitle-0-2-17"
+              >
+                - Jonathan Crary, 24/7 : Late Capitalism and the Ends of Sleep
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="keen-slider__slide"
+          style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
+        >
+          <div
+            class="root-0-2-18"
+          >
+            <div
+              class="titleContainer-0-2-19"
+            >
+              <div
+                class="title-0-2-20"
+              />
+              <div
+                class="subTitle-0-2-21"
+              />
+            </div>
+            <div
+              class="credit-0-2-22"
+            >
+              <div
+                class="creditLeft-0-2-23"
+              >
+                컨셉・안무
+                <br />
+                퍼포머
+                <br />
+                <br />
+                 기술감독
+                <br />
+                 음향 디자인
+                <br />
+                 그래픽 작업
+                <br />
+                 사진・기록영상
+                <br />
+                의상디자인
+                <br />
+                 프로듀서
+                <br />
+                 프로덕션 매니저
+                <br />
+                 후원
+              </div>
+              <div
+                class="creditRight-0-2-24"
+              >
+                황수현
+                <br />
+                 강호정, 김주영, 도윤승, 박유라,
+                <br />
+                 신정민, 이현우, 황다솜
+                <br />
+                김지명
+                <br />
+                 지미세르
+                <br />
+                 백인경
+                <br />
+                 이의록
+                <br />
+                 임선열
+                <br />
+                 박초아
+                <br />
+                 김헌후
+                <br />
+                 서울특별시, 서울문화재단, 한국문화예술위원회, (재)전문무용수지원센터
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="keen-slider__slide"
+          style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
+        >
+          <div
+            class="root-0-2-25"
+          >
+            <div
+              id="disqus_thread"
+            />
+            <div
+              class="text-0-2-26"
+            >
+              <a
+                href="https://instagram.com/shh_works"
+                rel="noopener"
+                target="_parent"
+              >
+                © 2020 Soo Hyun Hwang, all rights reserved.
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="keen-slider keen-slider--vertical"
+      data-keen-slider-v="true"
+      style="height: 100vh;"
+    >
+      <div
+        class="keen-slider__slide"
+        style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
+      >
+        <div
+          class="root-0-2-1"
+        >
+          <video
+            controls=""
+            height="auto"
+            playsinline=""
+            poster="cover.png"
+            width="100%"
+          >
+            <source
+              src="https://shh-works-contents.s3.ap-northeast-2.amazonaws.com/Hmmmm_mobile.m4v"
+              type="video/mp4"
+            />
+          </video>
+        </div>
+        <div
+          class="text-0-2-3"
+        >
+          <p>
+            황수현의 신작 ❮ 음—— ❯은 정관헌(靜觀軒)이라는 공간이 함의하고 있는 ‘조용히 내다본다’는 행위를 조명한다. 바라본다는 시각적 감각과 저 너머를 내다본다는 예기적 감각 사이에서 안무가는 ‘본다’는 감각 행위의 의미를 반추한다.
+          </p>
+          <p>
+            ❮ 음—— ❯은 관객이 바깥 풍경을 내다보면서 해석의 과정을 지연하는 멈춤 상태에 머무를 수 있도록 안내한다. 함께 모여 무언가를 관람하고 의미를 찾는 과정이 잠시 정지된 이 상태는 막연하고 모호한 공백을 만들어낸다. 그 진공 속에서 관객은 불현듯 의미화 너머의 세계를 감지하기 시작한다.
+          </p>
+          <p>
+            오늘날 스크린이 아니라 ‘몸’으로 공연을 감각하는 행위는 감각적 진보와 도태 사이, 시각적 구체와 추상 사이, 과거의 향수와 미래의 가능성 사이를 부유한다. 그러나 이 유예의 상태는 곧 ‘내다보기’의 영역으로 내디딜 수 있는 단서가 된다.
+          </p>
+        </div>
+      </div>
+      <div
+        class="keen-slider__slide"
+        style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
+      >
+        <div
+          class="container-0-2-4"
+        >
+          <div
+            class="title-0-2-5"
+          >
+            PERFORMANCE VENUE
+          </div>
+          <div
+            class="content-0-2-6"
+          >
+            <h3>
+              정관헌(靜觀軒)의 장소성
+            </h3>
+            <ul>
+              <li>
+                — 명칭: 이름에 함의된 ‘조용히(靜) 내다봄(觀)’의 행위
+              </li>
+              <li>
+                — 용도: 고종의 휴게실로 사용되었던 공간에서 갖는 쉼의 시간
+              </li>
+              <li>
+                — 구조: 삼면이 트인 열린 구조로 내부와 외부의 순환
+              </li>
+              <li>
+                — 역사: 공간이 품고있는 과거의 시간과 현재의 만남
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div
+        class="keen-slider__slide"
+        style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
+      >
+        <div
+          class="root-0-2-7"
+        >
+          <div
+            class="top-0-2-8"
+          >
+            <div
+              class="title-0-2-12"
+            >
+              PERFORMER
+            </div>
+            <div
+              class="slider-0-2-9"
+            >
+              <div
+                class="alice-carousel"
+              >
+                <div>
+                  <div
+                    class="alice-carousel__wrapper"
+                    style="padding-left: 50px; padding-right: 50px;"
+                  >
+                    <ul
+                      class="alice-carousel__stage"
+                      style="transition: transform 0ms ease 0ms; transform: translate3d(0px, 0, 0);"
+                    >
+                      <li
+                        class="alice-carousel__stage-item __active"
+                        style="width: 0px;"
+                      >
+                        <div
+                          class="imageContainer-0-2-10"
+                        >
+                          <img
+                            alt="performer"
+                            src="image01.jpg"
+                            width="100%"
+                          />
+                          강호정
+                        </div>
+                      </li>
+                      <li
+                        class="alice-carousel__stage-item __active"
+                        style="width: 0px;"
+                      >
+                        <div
+                          class="imageContainer-0-2-10"
+                        >
+                          <img
+                            alt="performer"
+                            src="image02.jpg"
+                            width="100%"
+                          />
+                          김주영
+                        </div>
+                      </li>
+                      <li
+                        class="alice-carousel__stage-item"
+                        style="width: 0px;"
+                      >
+                        <div
+                          class="imageContainer-0-2-10"
+                        >
+                          <img
+                            alt="performer"
+                            src="image03.jpg"
+                            width="100%"
+                          />
+                          도윤승
+                        </div>
+                      </li>
+                      <li
+                        class="alice-carousel__stage-item"
+                        style="width: 0px;"
+                      >
+                        <div
+                          class="imageContainer-0-2-10"
+                        >
+                          <img
+                            alt="performer"
+                            src="image04.jpg"
+                            width="100%"
+                          />
+                          박유라
+                        </div>
+                      </li>
+                      <li
+                        class="alice-carousel__stage-item"
+                        style="width: 0px;"
+                      >
+                        <div
+                          class="imageContainer-0-2-10"
+                        >
+                          <img
+                            alt="performer"
+                            src="image05.jpg"
+                            width="100%"
+                          />
+                          신정민
+                        </div>
+                      </li>
+                      <li
+                        class="alice-carousel__stage-item"
+                        style="width: 0px;"
+                      >
+                        <div
+                          class="imageContainer-0-2-10"
+                        >
+                          <img
+                            alt="performer"
+                            src="image06.jpg"
+                            width="100%"
+                          />
+                          이현우
+                        </div>
+                      </li>
+                      <li
+                        class="alice-carousel__stage-item"
+                        style="width: 0px;"
+                      >
+                        <div
+                          class="imageContainer-0-2-10"
+                        >
+                          <img
+                            alt="performer"
+                            src="image07.jpg"
+                            width="100%"
+                          />
+                          황다솜
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="bottom-0-2-11"
+          >
+            <div
+              class="title-0-2-12"
+            >
+              HMMMMM
+            </div>
+            <div
+              class="content-0-2-13"
+            >
+              <p>
+                고고학자 스티븐 미슨은 의사소통의 기원에 관한 자신의 연구에서 음악과 언어가 공통의 뿌리를 갖는다고 주장하며 다음과 같이 말했다.
+              </p>
+              <p>
+                “원시언어는 엄밀하게 언어적이거나 음악적인 것이 아니라 두 가지 성격이 뒤섞인 ‘HMMMMM’ (Holistic, Multi-modal, Manipulative, Music, Mimetic) 체계로 구성되어 있다.”
+              </p>
+              <div
+                style="font-size: 12px; font-style: italic;"
+              >
+                - Steven Mithen, The singing Neanderthals
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="keen-slider__slide"
+        style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
+      >
+        <div
+          class="root-0-2-14"
+        >
+          <div
+            class="titleContainer-0-2-15"
+          >
+            <div
+              class="title-0-2-16"
+            >
+              “잠은 자본주의가 제거할 수 없는, 유일하게 남아 있는 장애물, 유일하게 지속되는 ‘자연조건’이다.”
+            </div>
+            <div
+              class="subTitle-0-2-17"
+            >
+              - Jonathan Crary, 24/7 : Late Capitalism and the Ends of Sleep
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="keen-slider__slide"
+        style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
+      >
+        <div
+          class="root-0-2-18"
+        >
+          <div
+            class="titleContainer-0-2-19"
+          >
+            <div
+              class="title-0-2-20"
+            />
+            <div
+              class="subTitle-0-2-21"
+            />
+          </div>
+          <div
+            class="credit-0-2-22"
+          >
+            <div
+              class="creditLeft-0-2-23"
+            >
+              컨셉・안무
+              <br />
+              퍼포머
+              <br />
+              <br />
+               기술감독
+              <br />
+               음향 디자인
+              <br />
+               그래픽 작업
+              <br />
+               사진・기록영상
+              <br />
+              의상디자인
+              <br />
+               프로듀서
+              <br />
+               프로덕션 매니저
+              <br />
+               후원
+            </div>
+            <div
+              class="creditRight-0-2-24"
+            >
+              황수현
+              <br />
+               강호정, 김주영, 도윤승, 박유라,
+              <br />
+               신정민, 이현우, 황다솜
+              <br />
+              김지명
+              <br />
+               지미세르
+              <br />
+               백인경
+              <br />
+               이의록
+              <br />
+               임선열
+              <br />
+               박초아
+              <br />
+               김헌후
+              <br />
+               서울특별시, 서울문화재단, 한국문화예술위원회, (재)전문무용수지원센터
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="keen-slider__slide"
+        style="min-height: calc(100% - NaNpx); max-height: calc(100% - NaNpx); transform: translate3d(0px, NaNpx, 0);"
+      >
+        <div
+          class="root-0-2-25"
+        >
+          <div
+            id="disqus_thread"
+          />
+          <div
+            class="text-0-2-26"
+          >
+            <a
+              href="https://instagram.com/shh_works"
+              rel="noopener"
+              target="_parent"
+            >
+              © 2020 Soo Hyun Hwang, all rights reserved.
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

@@ -1,11 +1,9 @@
 import React from "react";
 import { createUseStyles } from "react-jss";
-// import { DiscussionEmbed } from "disqus-react";
 import { Comment } from "react-disqus-components";
 
 export default function Reply() {
   const classes = useStyles();
-  // @ts-ignore
   // React.useEffect(() => window.FB.XFBML.parse());
   const disqusConfig = {
     title: "HMMMM",
@@ -38,13 +36,7 @@ export default function Reply() {
 
 const useStyles = createUseStyles({
   root: {
-    // display: "flex",
-    // flexDirection: "column",
-    // justifyContent: "center",
-    // alignItems: "center",
     textAlign: "center",
-    // height: "100%",
-    // width: "100%",
     paddingTop: 0,
     paddingLeft: 20,
     paddingRight: 20,
