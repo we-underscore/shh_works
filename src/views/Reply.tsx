@@ -1,20 +1,40 @@
 import React from "react";
 import { createUseStyles } from "react-jss";
+// @ts-ignore
+import ReactWidgetPackComments from "react-widgetpack-comments";
 // import { Comment } from "react-disqus-components";
-import { DiscussionEmbed } from "disqus-react";
+// import { DiscussionEmbed } from "disqus-react";
 
 export default function Reply() {
   const classes = useStyles();
   // React.useEffect(() => window.FB.XFBML.parse());
-  const config = {
-    title: "HMMMM",
-    identifier: "HMMMM",
-    url: "https://hmmmm-2.disqus.com/",
-  };
+  // React.useEffect(() => {
+  //   // @ts-ignore
+  //   const wpac_init = window.wpac_init || [];
+  //   wpac_init.push({ widget: "Comment", id: 27935 });
+  //   (function () {
+  //     if ("WIDGETPACK_LOADED" in window) return;
+  //     // @ts-ignore
+  //     window.WIDGETPACK_LOADED = true;
+  //     var mc = document.createElement("script");
+  //     mc.type = "text/javascript";
+  //     mc.async = true;
+  //     mc.src = "https://embed.widgetpack.com/widget.js";
+  //     var s = document.getElementsByTagName("script")[0];
+  //     // @ts-ignore
+  //     s.parentNode.insertBefore(mc, s.nextSibling);
+  //   })();
+  // });
+  // const config = {
+  //   title: "HMMMM",
+  //   identifier: "HMMMM",
+  //   url: "https://hmmmm-2.disqus.com/",
+  // };
   return (
     <div className={classes.root}>
       {/* <Comment {...disqusConfig} /> */}
-      <DiscussionEmbed shortname="HMMMM" config={config} />
+      <ReactWidgetPackComments id={27935} enable={true} />
+      {/* <DiscussionEmbed shortname="HMMMM" config={config} /> */}
       <div className={classes.text}>
         <a
           href="https://instagram.com/shh_works"
@@ -39,7 +59,7 @@ const useStyles = createUseStyles({
   root: {
     textAlign: "center",
     height: "100vh",
-    paddingTop: 0,
+    paddingTop: 30,
     paddingLeft: 20,
     paddingRight: 20,
     overflowY: "hidden",
