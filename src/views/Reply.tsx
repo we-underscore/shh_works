@@ -62,14 +62,14 @@ const useStyles = createUseStyles({
     paddingTop: 30,
     paddingLeft: 20,
     paddingRight: 20,
-    overflowY: "hidden",
-    "& div": {
-      height: "100vh",
-      overflowY: "hidden",
-      "& iframe": {
-        overflowY: "hidden !important",
-      },
-    },
+    // overflowY: "hidden",
+    // "& div": {
+    //   height: "100vh",
+    //   overflowY: "hidden",
+    //   "& iframe": {
+    //     overflowY: "hidden !important",
+    //   },
+    // },
   },
   text: {
     fontFamily: "Noto Serif KR",
@@ -79,6 +79,7 @@ const useStyles = createUseStyles({
     lineHeight: 0.8,
     letterSpacing: 0,
     textAlign: "center",
+    marginTop: 50,
     color: "#707070",
     "& a": {
       color: "#707070",
