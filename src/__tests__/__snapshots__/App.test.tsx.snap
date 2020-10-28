@@ -4,10 +4,6 @@ exports[`<App /> matches snapshot 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
-    <script
-      id="dsq-embed-scr"
-      src="https://HMMMM.disqus.com/embed.js"
-    />
     <div>
       <div
         class="keen-slider keen-slider--vertical"
@@ -120,9 +116,10 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <div
-                              class="imageSlide-0-2-14"
-                              style="background-image: url(image01.jpg); width: 100%; height: 200px;"
+                            <img
+                              alt="performer"
+                              src="image01.jpg"
+                              width="100%"
                             />
                             강호정
                           </div>
@@ -134,9 +131,10 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <div
-                              class="imageSlide-0-2-14"
-                              style="background-image: url(image02.jpg); width: 100%; height: 200px;"
+                            <img
+                              alt="performer"
+                              src="image02.jpg"
+                              width="100%"
                             />
                             김주영
                           </div>
@@ -148,9 +146,10 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <div
-                              class="imageSlide-0-2-14"
-                              style="background-image: url(image03.jpg); width: 100%; height: 200px;"
+                            <img
+                              alt="performer"
+                              src="image03.jpg"
+                              width="100%"
                             />
                             도윤승
                           </div>
@@ -162,9 +161,10 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <div
-                              class="imageSlide-0-2-14"
-                              style="background-image: url(image04.jpg); width: 100%; height: 200px;"
+                            <img
+                              alt="performer"
+                              src="image04.jpg"
+                              width="100%"
                             />
                             박유라
                           </div>
@@ -176,9 +176,10 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <div
-                              class="imageSlide-0-2-14"
-                              style="background-image: url(image05.jpg); width: 100%; height: 200px;"
+                            <img
+                              alt="performer"
+                              src="image05.jpg"
+                              width="100%"
                             />
                             신정민
                           </div>
@@ -190,9 +191,10 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <div
-                              class="imageSlide-0-2-14"
-                              style="background-image: url(image06.jpg); width: 100%; height: 200px;"
+                            <img
+                              alt="performer"
+                              src="image06.jpg"
+                              width="100%"
                             />
                             이현우
                           </div>
@@ -204,9 +206,10 @@ Object {
                           <div
                             class="imageContainer-0-2-10"
                           >
-                            <div
-                              class="imageSlide-0-2-14"
-                              style="background-image: url(image07.jpg); width: 100%; height: 200px;"
+                            <img
+                              alt="performer"
+                              src="image07.jpg"
+                              width="100%"
                             />
                             황다솜
                           </div>
@@ -345,11 +348,11 @@ Object {
           <div
             class="root-0-2-26"
           >
-            <div
-              config="[object Object]"
-              id="disqus_thread"
-              shortname="HMMMM"
-            />
+            <div>
+              <div
+                id="wpac-comment"
+              />
+            </div>
             <div
               class="text-0-2-27"
             >
@@ -365,10 +368,6 @@ Object {
         </div>
       </div>
     </div>
-    <script
-      id="dsq-embed-scr"
-      src="https://HMMMM.disqus.com/embed.js"
-    />
   </body>,
   "container": <div>
     <div
@@ -482,9 +481,10 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <div
-                            class="imageSlide-0-2-14"
-                            style="background-image: url(image01.jpg); width: 100%; height: 200px;"
+                          <img
+                            alt="performer"
+                            src="image01.jpg"
+                            width="100%"
                           />
                           강호정
                         </div>
@@ -496,9 +496,10 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <div
-                            class="imageSlide-0-2-14"
-                            style="background-image: url(image02.jpg); width: 100%; height: 200px;"
+                          <img
+                            alt="performer"
+                            src="image02.jpg"
+                            width="100%"
                           />
                           김주영
                         </div>
@@ -510,9 +511,10 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <div
-                            class="imageSlide-0-2-14"
-                            style="background-image: url(image03.jpg); width: 100%; height: 200px;"
+                          <img
+                            alt="performer"
+                            src="image03.jpg"
+                            width="100%"
                           />
                           도윤승
                         </div>
@@ -524,9 +526,10 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <div
-                            class="imageSlide-0-2-14"
-                            style="background-image: url(image04.jpg); width: 100%; height: 200px;"
+                          <img
+                            alt="performer"
+                            src="image04.jpg"
+                            width="100%"
                           />
                           박유라
                         </div>
@@ -538,9 +541,10 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <div
-                            class="imageSlide-0-2-14"
-                            style="background-image: url(image05.jpg); width: 100%; height: 200px;"
+                          <img
+                            alt="performer"
+                            src="image05.jpg"
+                            width="100%"
                           />
                           신정민
                         </div>
@@ -552,9 +556,10 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <div
-                            class="imageSlide-0-2-14"
-                            style="background-image: url(image06.jpg); width: 100%; height: 200px;"
+                          <img
+                            alt="performer"
+                            src="image06.jpg"
+                            width="100%"
                           />
                           이현우
                         </div>
@@ -566,9 +571,10 @@ Object {
                         <div
                           class="imageContainer-0-2-10"
                         >
-                          <div
-                            class="imageSlide-0-2-14"
-                            style="background-image: url(image07.jpg); width: 100%; height: 200px;"
+                          <img
+                            alt="performer"
+                            src="image07.jpg"
+                            width="100%"
                           />
                           황다솜
                         </div>
@@ -707,11 +713,11 @@ Object {
         <div
           class="root-0-2-26"
         >
-          <div
-            config="[object Object]"
-            id="disqus_thread"
-            shortname="HMMMM"
-          />
+          <div>
+            <div
+              id="wpac-comment"
+            />
+          </div>
           <div
             class="text-0-2-27"
           >
